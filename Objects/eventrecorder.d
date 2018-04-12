@@ -1,0 +1,11 @@
+.\objects\eventrecorder.o: C:\Keil_v5\ARM\PACK\Keil\ARM_Compiler\1.1.0\Source\EventRecorder.c
+.\objects\eventrecorder.o: D:\Keil\LPC1768_new\RTE\RTE_Components.h
+.\objects\eventrecorder.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include\LPC17xx.h
+.\objects\eventrecorder.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm3.h
+.\objects\eventrecorder.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\eventrecorder.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h
+.\objects\eventrecorder.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h
+.\objects\eventrecorder.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h
+.\objects\eventrecorder.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include\system_LPC17xx.h
+.\objects\eventrecorder.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\eventrecorder.o: C:\Keil_v5\ARM\PACK\Keil\ARM_Compiler\1.1.0\Include\EventRecorder.h

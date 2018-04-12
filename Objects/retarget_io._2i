@@ -1,0 +1,11 @@
+-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork --split_sections
+-I D:\Keil\LPC1768_new\RTE
+-I D:\Keil\LPC1768_new\RTE\Device\LPC1768
+-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Driver\Include
+-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include
+-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\RTOS\RTX\INC
+-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include
+-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\RTE_Driver
+-I C:\Keil_v5\ARM\PACK\Keil\MDK-Middleware\7.1.0\Network\Include
+-D__UVISION_VERSION="520" -D_RTE_ -DLPC175x_6x
+-o .\objects\retarget_io.o --omf_browse .\objects\retarget_io.crf --depend .\objects\retarget_io.d --feedback ".\Objects\LPC1768_new.fed" "C:\Keil_v5\ARM\PACK\Keil\ARM_Compiler\1.1.0\Source\retarget_io.c"
